@@ -20,15 +20,31 @@ echo $output
 refreshFrequency: 2000
 
 style: """
-  bottom: 10px
-  left: 10px
+  bottom: 20px
+  right: 30px
   color: #fff
+  font-family: "SF Pro Display", Helvetica Neue
+  text-shadow: 0 1px 5px #333;
 
-  .some-class
-    font-family: Helvetica Neue
-    font-size: 30px
-    font-weight: 100
-    text-shadow: 0 1px 5px #000000;
+  p
+	  margin:0
+
+  .track-record
+	  font-size: 24px
+	  line-height:1.1
+	  font-weight: 300
+	  display: table
+  .now-playing
+	  margin-bottom:0.2em
+	  font-size:0.85em
+  .some-class img
+	  max-height:2.2em;
+	  display:table-cell
+	  padding-right:0.4em
+  .song-details
+	  display:table-cell
+	  vertical-align:top
+
 """
 
 render: (output) -> """
