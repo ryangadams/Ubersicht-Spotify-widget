@@ -21,10 +21,13 @@ refreshFrequency: 2000
 
 style: """
   bottom: 20px
+  background: rgba(0,0,0,0.35)
+  border-radius: 3px
+  padding:2px
   right: 30px
   color: #fff
   font-family: "SF Pro Display", Helvetica Neue
-  text-shadow: 0 1px 5px #333;
+  text-shadow: 0 1px 5px #444;
 
   p
 	  margin:0
