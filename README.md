@@ -5,8 +5,8 @@ Using Ubersicht displays current track palying in spotify on you desktop.
 
 Link to Ubersicht http://tracesof.net/uebersicht/#comment-1445259628
 
-Drop SpotifyCurrentTrack.coffee in you Ubersicht widgets folder and away you go!
+Drop all the files in this repo in you Ubersicht widgets folder and away you go! You may need to grant permission to Ubersicht to control your computer.
 
-You may need to adjust the "top" and "left" position to suite your display
+You may need to adjust the "top" and "left" position to suit your display
 
 
