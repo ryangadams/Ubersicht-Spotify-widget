@@ -1,6 +1,6 @@
 {
   "name": "SpotifyCurrentTrack",
-  "description": "Displays current track palying in spotify",
-  "author": "ThomasBrace",
-  "email": "thomas@thomasbrace.com"
+  "description": "Displays current track palying in spotify (forked from this: https://github.com/ThomasBrace/Ubersicht-Spotify-widget",
+  "author": "Ryan Adams",
+  "email": "ryan.g.adams@gmail.com"
 }
